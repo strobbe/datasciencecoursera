@@ -1,2 +1,2 @@
 # datasciencecoursera
-For Data Scientist's Toolbox course from Johns Hopkins University
+For Data Science Specilization track from Johns Hopkins University
