@@ -2,7 +2,9 @@
 
 Markdown is a way to mark text for formatting / syntax. It is similar to HTML except it's much simpler. As the site I'm looking at now says...
 
-> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+> Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like itâ€™s been marked up with tags or formatting instructions.
+
+-----------------
 
 And below is a list:
 * First
