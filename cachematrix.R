@@ -2,7 +2,7 @@
 
 ## Creates the matrix with its own set of functions
 makeCacheMatrix <- function(x = matrix()) {
-    i <- NULL
+    i <- NULL   ## Set up variable for inverse but set it to Null
     set <- function(y) {
     x <<- y
     i <<- NULL
